@@ -4,7 +4,10 @@
 |Database Lua API|更多Menu Lua API|Lua市场|
 |Scan Lua API|Proxy Lua API|TeamServer|
 |迁移到Tauri 2.0 Stable|Poc管理器||
-||Lua配置管理器|
+|Nuclei支持|Lua配置管理器||
+|Scan支持|||
+|Summary支持|||
+|i18n|||
 
 # Fofa-GUI
 来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。自v0.0.5版本开始支持附加Lua脚本并逐步重构为Kanade。
@@ -74,10 +77,16 @@ https://earlysun.gitbook.io/kanade-lua-api
 | 0.0.3|✅|✅|✅|
 | 0.0.4|✅|✅|✅|
 | 0.0.5|✅|⏸️|⏸️|
+| 0.0.6(pre-release)|✅|✅|✅|
 
-## 贡献POC
+## 开发状态
+见截图
+<img width="1267" alt="image" src="https://github.com/user-attachments/assets/e73fc38d-9e36-4420-9065-68326e430710" />
+<img width="1267" alt="image" src="https://github.com/user-attachments/assets/d32d9d74-8d74-4db3-8c73-48d25b126ca0" />
+<img width="1267" alt="image" src="https://github.com/user-attachments/assets/cdeaa913-d736-495d-951e-252bc7317848" />
+<img width="1276" alt="image" src="https://github.com/user-attachments/assets/cf09b367-f78a-4668-ad17-24f0a6d0f83b" />
 
-将在2个版本内更新POC管理器，届时上线POC仓库。
+
 
 ## Star Chart
 [![Stargazers over time](https://starchart.cc/earlysun030201/Fofa-GUI.svg?variant=adaptive)](https://starchart.cc/earlysun030201/Fofa-GUI)
