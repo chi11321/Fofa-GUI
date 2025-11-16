@@ -81,10 +81,13 @@ https://earlysun.gitbook.io/kanade-lua-api
 
 ## 开发状态
 见截图
-<img width="1267" alt="image" src="https://github.com/user-attachments/assets/e73fc38d-9e36-4420-9065-68326e430710" />
-<img width="1267" alt="image" src="https://github.com/user-attachments/assets/d32d9d74-8d74-4db3-8c73-48d25b126ca0" />
-<img width="1267" alt="image" src="https://github.com/user-attachments/assets/cdeaa913-d736-495d-951e-252bc7317848" />
-<img width="1276" alt="image" src="https://github.com/user-attachments/assets/cf09b367-f78a-4668-ad17-24f0a6d0f83b" />
+<img width="2480" height="1562" alt="SnowShot_2025-11-16_09-43-42" src="https://github.com/user-attachments/assets/bcfa5fd6-bff9-4d90-9b5d-52a5dcf93927" />
+<img width="2480" height="1562" alt="SnowShot_2025-11-16_09-43-58" src="https://github.com/user-attachments/assets/2a0be471-4941-4797-b15c-68c99da1c6f3" />
+<img width="2480" height="1562" alt="SnowShot_2025-11-16_09-44-15" src="https://github.com/user-attachments/assets/3249d70c-7973-4e62-83e0-10cde42b6bf3" />
+<img width="2480" height="1562" alt="SnowShot_2025-11-16_09-44-31" src="https://github.com/user-attachments/assets/05998c3f-735a-4a21-84cc-964ef770f320" />
+<img width="2480" height="1562" alt="SnowShot_2025-11-16_09-44-40" src="https://github.com/user-attachments/assets/df57b46f-ec04-479b-854e-a01b0f93802e" />
+<img width="2480" height="1562" alt="SnowShot_2025-11-16_09-45-18" src="https://github.com/user-attachments/assets/312492a8-6847-4592-bc2e-7cdf8fc33278" />
+
 
 
 
